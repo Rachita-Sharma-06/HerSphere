@@ -43,7 +43,9 @@
 ### 👥 Community
 - **HerCircle** — Community board with 248+ women online for peer support
 
----## 📱 Screenshots
+---
+
+## 📱 Screenshots
 
 <table>
   <tr>
@@ -64,7 +66,9 @@
   </tr>
 </table>
 
----## 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 Frontend     →  React + Vite (PWA)
 Backend      →  Firebase (Auth, Firestore, Hosting)
@@ -97,7 +101,9 @@ npm install
 Start development server:
 npm run dev
 
----## 👩‍💻 About the Developer
+---
+
+## 👩‍💻 About the Developer
 
 Built with ❤️ by **Rachita Sharma** — 3rd year B.Tech CSE student at GNIOT, Greater Noida.
 
