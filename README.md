@@ -17,7 +17,9 @@
 
 </div>
 
----## 📖 About
+---
+
+## 📖 About
 
 **HerSphere** is a Progressive Web App (PWA) that combines women's **safety** and **health** features into one unified platform. Built as a 2-person team for the SHE INNOVATES competition, the app provides real-time protection tools and wellness tracking — all in a single, installable mobile-first app.
 
